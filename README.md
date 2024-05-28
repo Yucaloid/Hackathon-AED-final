@@ -69,4 +69,4 @@ El proyecto sigue una estructura de carpetas organizada de la siguiente manera:
 
 
 ## Licencia
-
+MIT License
